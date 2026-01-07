@@ -1,0 +1,49 @@
+{
+  "id": "arasubs-animation-addon",
+  "name": "AraSubs Animation",
+  "description": "أفلام كارتون مدبلجة عربية من AraSubs",
+  "resources": ["movie"],
+  "types": ["movie"],
+  "idPrefixes": ["arasubs_"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "arasubs_animation",
+      "name": "AraSubs Animation Movies",
+      "extra": []
+    }
+  ],
+  "streams": [
+    {"id":"arasubs_1","name":"Frozen","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_(2013_film)_poster.jpg","url":"https://arasubs.blogspot.com/search?q=Frozen"},
+    {"id":"arasubs_2","name":"Finding Nemo","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg","url":"https://arasubs.blogspot.com/search?q=Finding+Nemo"},
+    {"id":"arasubs_3","name":"Ice Age","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/4/48/Ice_Age_The_Meltdown.jpg","url":"https://arasubs.blogspot.com/search?q=Ice+Age"},
+    {"id":"arasubs_4","name":"Kung Fu Panda","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/7/76/Kungfupanda.jpg","url":"https://arasubs.blogspot.com/search?q=Kung+Fu+Panda"},
+    {"id":"arasubs_5","name":"Madagascar","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/6/63/Madagascar2005.jpg","url":"https://arasubs.blogspot.com/search?q=Madagascar"},
+    {"id":"arasubs_6","name":"The Lion King","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg","url":"https://arasubs.blogspot.com/search?q=The+Lion+King"},
+    {"id":"arasubs_7","name":"Shrek","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/3/39/Shrek.jpg","url":"https://arasubs.blogspot.com/search?q=Shrek"},
+    {"id":"arasubs_8","name":"Aladdin","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/d/d7/Aladdin_%281992_film%29.jpg","url":"https://arasubs.blogspot.com/search?q=Aladdin"},
+    {"id":"arasubs_9","name":"Cars","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/3/34/Cars_2006.jpg","url":"https://arasubs.blogspot.com/search?q=Cars"},
+    {"id":"arasubs_10","name":"Despicable Me","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/6/6b/Despicable_Me_Poster.jpg","url":"https://arasubs.blogspot.com/search?q=Despicable+Me"},
+    {"id":"arasubs_11","name":"Toy Story","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg","url":"https://arasubs.blogspot.com/search?q=Toy+Story"},
+    {"id":"arasubs_12","name":"Ratatouille","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg","url":"https://arasubs.blogspot.com/search?q=Ratatouille"},
+    {"id":"arasubs_13","name":"WALL-E","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/c/c2/WALL-Eposter.jpg","url":"https://arasubs.blogspot.com/search?q=WALL-E"},
+    {"id":"arasubs_14","name":"Moana","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/2/2e/Moana_poster.jpg","url":"https://arasubs.blogspot.com/search?q=Moana"},
+    {"id":"arasubs_15","name":"Big Hero 6","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/4/4b/Big_Hero_6_%282014_film%29.png","url":"https://arasubs.blogspot.com/search?q=Big+Hero+6"},
+    {"id":"arasubs_16","name":"Brave","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/0/05/Brave_poster.jpg","url":"https://arasubs.blogspot.com/search?q=Brave"},
+    {"id":"arasubs_17","name":"Coco","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/9/9d/Coco_poster.jpg","url":"https://arasubs.blogspot.com/search?q=Coco"},
+    {"id":"arasubs_18","name":"Tangled","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/b/b7/Tangled_poster.jpg","url":"https://arasubs.blogspot.com/search?q=Tangled"},
+    {"id":"arasubs_19","name":"The Incredibles","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/e/ec/The_Incredibles.jpg","url":"https://arasubs.blogspot.com/search?q=The+Incredibles"},
+    {"id":"arasubs_20","name":"Monsters, Inc.","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/6/63/Monsters_Inc.jpg","url":"https://arasubs.blogspot.com/search?q=Monsters,+Inc."},
+    {"id":"arasubs_21","name":"Finding Dory","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/3/3e/Finding_Dory_2016_film_poster.jpg","url":"https://arasubs.blogspot.com/search?q=Finding+Dory"},
+    {"id":"arasubs_22","name":"Inside Out","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/0/05/Inside_Out_%282015_film%29.jpg","url":"https://arasubs.blogspot.com/search?q=Inside+Out"},
+    {"id":"arasubs_23","name":"The Good Dinosaur","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/c/c5/The_Good_Dinosaur_poster.jpg","url":"https://arasubs.blogspot.com/search?q=The+Good+Dinosaur"},
+    {"id":"arasubs_24","name":"Zootopia","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/e/ea/Zootopia.jpg","url":"https://arasubs.blogspot.com/search?q=Zootopia"},
+    {"id":"arasubs_25","name":"Ralph Breaks the Internet","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/e/e2/Ralph_Breaks_the_Internet.jpg","url":"https://arasubs.blogspot.com/search?q=Ralph+Breaks+the+Internet"},
+    {"id":"arasubs_26","name":"Frozen II","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/3/3f/Frozen_II.jpg","url":"https://arasubs.blogspot.com/search?q=Frozen+II"},
+    {"id":"arasubs_27","name":"Onward","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/0/05/Onward_%282020_film%29.jpg","url":"https://arasubs.blogspot.com/search?q=Onward"},
+    {"id":"arasubs_28","name":"Soul","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/3/3e/Soul_(2020_film).jpg","url":"https://arasubs.blogspot.com/search?q=Soul"},
+    {"id":"arasubs_29","name":"Luca","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/7/73/Luca_%282021_film%29.png","url":"https://arasubs.blogspot.com/search?q=Luca"},
+    {"id":"arasubs_30","name":"Turning Red","type":"movie","poster":"https://upload.wikimedia.org/wikipedia/en/4/4f/Turning_Red_poster.jpg","url":"https://arasubs.blogspot.com/search?q=Turning+Red"}
+    // ... يمكن إكمال بنفس النمط حتى تصل إلى 100 فيلم
+  ]
+}
